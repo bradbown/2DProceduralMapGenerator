@@ -1,0 +1,8 @@
+﻿  Map.cpp
+f:\d&d\mapgenerator\mapgenerator\map.cpp(5): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\d&d\mapgenerator\mapgenerator\map.cpp(6): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\d&d\mapgenerator\mapgenerator\map.cpp(7): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\d&d\mapgenerator\mapgenerator\map.cpp(99): warning C4018: '<': signed/unsigned mismatch
+f:\d&d\mapgenerator\mapgenerator\map.cpp(101): warning C4018: '<': signed/unsigned mismatch
+f:\d&d\mapgenerator\mapgenerator\map.cpp(145): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  MapGenerator.vcxproj -> F:\D&D\MapGenerator\Debug\MapGenerator.exe
