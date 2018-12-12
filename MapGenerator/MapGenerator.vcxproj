@@ -76,7 +76,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\SDKs\glm;..\SDKs\SFML-2.5.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\SDKs\imgui-sfml-master;..\SDKs\imgui-master;..\SDKs\glm;..\SDKs\SFML-2.5.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <EnableEnhancedInstructionSet>StreamingSIMDExtensions2</EnableEnhancedInstructionSet>
     </ClCompile>
     <Link>
@@ -101,7 +101,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\SDKs\glm;..\SDKs\SFML-2.5.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\SDKs\imgui-sfml-master;..\SDKs\imgui-master;..\SDKs\glm;..\SDKs\SFML-2.5.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <EnableEnhancedInstructionSet>StreamingSIMDExtensions2</EnableEnhancedInstructionSet>
     </ClCompile>
     <Link>
@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\SDKs\imgui-master\imgui.cpp" />
+    <ClCompile Include="..\SDKs\imgui-master\imgui_draw.cpp" />
+    <ClCompile Include="..\SDKs\imgui-sfml-master\imgui-SFML.cpp" />
     <ClCompile Include="Application.cpp" />
     <ClCompile Include="FastNoiseSIMD.cpp" />
     <ClCompile Include="FastNoiseSIMD_avx2.cpp" />
