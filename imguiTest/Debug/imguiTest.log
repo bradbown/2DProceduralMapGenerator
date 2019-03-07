@@ -1,0 +1,21 @@
+﻿  Map.cpp
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(5): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(6): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(7): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(141): warning C4018: '<': signed/unsigned mismatch
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(143): warning C4018: '<': signed/unsigned mismatch
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(188): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  main.cpp
+  Input.cpp
+  imgui_widgets.cpp
+  imgui_draw.cpp
+  imgui.cpp
+  imgui-SFML.cpp
+  FastNoiseSIMD_sse41.cpp
+  FastNoiseSIMD_internal.cpp
+  FastNoiseSIMD_avx2.cpp
+  FastNoiseSIMD.cpp
+  Application.cpp
+  imgui_demo.cpp
+  Generating Code...
+  imguiTest.vcxproj -> F:\D&D\MapGenerator\2DProceduralMapGenerator\Debug\imguiTest.exe

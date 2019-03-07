@@ -1,0 +1,29 @@
+﻿  Map.cpp
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(5): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(6): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(7): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(160): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(164): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(168): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(172): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(176): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(188): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\map.cpp(188): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Input.cpp
+  imgui_widgets.cpp
+  imgui_draw.cpp
+  imgui.cpp
+  imgui-SFML.cpp
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\imgui-sfml.cpp(417): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\imgui-sfml.cpp(489): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\imgui-sfml.cpp(505): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+f:\d&d\mapgenerator\2dproceduralmapgenerator\imguitest\imgui-sfml.cpp(697): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+  FastNoiseSIMD_sse41.cpp
+  FastNoiseSIMD_internal.cpp
+  FastNoiseSIMD_avx2.cpp
+  FastNoiseSIMD.cpp
+  Application.cpp
+  imgui_demo.cpp
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
